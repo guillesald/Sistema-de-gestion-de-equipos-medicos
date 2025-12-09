@@ -1,4 +1,4 @@
--- Sistema de Gestión de Equipos Médicos, DDL básico (excluyendo tablas de Directus y triggers)
+-- Sistema de Gestión de Equipos Médicos, DDL básico (excluyendo tablas de Directus)
 
 -- Types
 CREATE TYPE public.estado_falla_enum AS ENUM (
